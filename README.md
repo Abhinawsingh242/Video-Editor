@@ -1171,7 +1171,7 @@ This makes the project useful for understanding how a backend application can in
 
 👨‍💻 Author
 
-Akhil Kumar Singh
+Abhinaw Singh
 
 B.Tech — Computer Science Engineering
 
